@@ -1,17 +1,29 @@
-![](https://dl.dropboxusercontent.com/u/6425188/eLeDeTe/Mypaint.png)
+![](https://dl.dropboxusercontent.com/u/6425188/eLeDeTe/Mypaint.png)Tanda-MyPaint-Brushkit
+======================
 
-MYPAINT -Set de pinceles-
+[MYPAINT](http://mypaint.org) -Set de pinceles-
 
-**MYPAINT -Brushkit-**
+**[MYPAINT](http://mypaint.org) -Brushkit-**
 
 ![](https://dl.dropboxusercontent.com/u/6425188/eLeDeTe/Descargas/Tanda-MyPaint-Brushkit-V1.0.jpg)
 
-Versión completa de mis pinceles disponibles en la versión oficial de MyPaint (Set#3).
+Versión completa Set#3.
 
-**Full version of my brushes availables in the official version of MyPaint (Set#3).**
+**Full version Set#3**
 
-[Descargar](http://lodetanda.blogspot.com/p/brushkitmypaint.html)
+======================
+[Descargar Tanda-MyPaint-Brushkit-V1.0](http://lodetanda.blogspot.com/p/brushkitmypaint.html)
 
-**[Download](http://lodetanda.blogspot.com/p/brushkitmypaint.html)**
+**[Download Tanda-MyPaint-Brushkit-V1.0](http://lodetanda.blogspot.com/p/brushkitmypaint.html)**
+======================
 
-Tanda.
+Retrato hecho con Tanda-MyPaint-Brushkit-V1.0.
+
+**Portrait made with Tanda-MyPaint-Brushkit-V1.0**
+
+![](https://dl.dropboxusercontent.com/u/6425188/eLeDeTe/Retratos/SalvadorDali.jpg)
+
+[Más Retratos](http://lodetanda.blogspot.com/p/retratos.html)
+
+**[More Portraits](http://lodetanda.blogspot.com/p/retratos.html)**
+======================
