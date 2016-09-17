@@ -4,7 +4,7 @@ MYPAINT -Set de pinceles-
 
 **MYPAINT -Brushkit-**
 
-![](https://dl.dropboxusercontent.com/u/6425188/eLeDeTe/Descargas/MYPAINT_Tanda_brushes_all.jpg)
+![](https://dl.dropboxusercontent.com/u/6425188/eLeDeTe/Descargas/Tanda-MyPaint-Brushkit-V1.0.jpg)
 
 Versión completa de mis pinceles disponibles en la versión oficial de MyPaint (Set#3).
 
