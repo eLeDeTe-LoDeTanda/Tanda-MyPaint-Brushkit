@@ -17,9 +17,9 @@ Versión completa Set#3.
 **[Download Tanda-MyPaint-Brushkit-V1.1](http://lodetanda.blogspot.com/p/brushkitmypaint.html)**
 ======================
 
-Retrato hecho con Tanda-MyPaint-Brushkit-V1.0.
+Retrato hecho con Tanda-MyPaint-Brushkit-V1.1.
 
-**Portrait made with Tanda-MyPaint-Brushkit-V1.0**
+**Portrait made with Tanda-MyPaint-Brushkit-V1.1**
 
 ![](https://dl.dropboxusercontent.com/u/6425188/eLeDeTe/Retratos/SalvadorDali.jpg)
 
