@@ -12,9 +12,9 @@ Versión completa Set#3.
 **Full version Set#3**
 
 ======================
-[Descargar Tanda-MyPaint-Brushkit-V1.0](http://lodetanda.blogspot.com/p/brushkitmypaint.html)
+[Descargar Tanda-MyPaint-Brushkit-V1.1](http://lodetanda.blogspot.com/p/brushkitmypaint.html)
 
-**[Download Tanda-MyPaint-Brushkit-V1.0](http://lodetanda.blogspot.com/p/brushkitmypaint.html)**
+**[Download Tanda-MyPaint-Brushkit-V1.1](http://lodetanda.blogspot.com/p/brushkitmypaint.html)**
 ======================
 
 Retrato hecho con Tanda-MyPaint-Brushkit-V1.0.
