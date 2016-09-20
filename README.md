@@ -19,17 +19,19 @@ Versión completa Set#3.
 
 **Para instalarlo :**
 
-1. Pincel -> Importar pinceles 
-2. Seleccione el *.zip 
+1. Descargue Tanda-MyPaint-Brushkit-V***.zip
+2. En MyPaint: Pincel -> Importar pinceles
+2. Seleccione el zip descargado.
 3. Listo, un grupo nuevo llamado "Tanda_FullVersion" se habrá creado. 
-
+    
 =
 
 **To install :**
 
-1. Brush -> Import Brushes
-2. Select the *.zip package
-3. Done, a new brush group named "Tanda_FullVersion" will be created. 
+1. Download Tanda-MyPaint-Brushkit-V***.zip
+2. In MyPaint: Brush -> Import Brushes
+3. Select the downloaded zip package
+4. Done, a new brush group named "Tanda_FullVersion" will be created. 
 
 =
 
