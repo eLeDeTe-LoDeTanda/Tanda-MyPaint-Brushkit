@@ -1,8 +1,8 @@
 {
     "comment": "MyPaint brush file", 
-    "description": "", 
+    "description": "Read Notes (Ctrl+b).", 
     "group": "", 
-    "notes": "", 
+    "notes": "Oils:\nThe painting is not infinite, when  the brush is not painting anymore start to smudge but with more presion you can paint a little.\nEach paintbrush have two variants for use combined:\nTo paint(Paint).\nBrush Clean(Clean)): it's equals to \"Paint\" but clean, only smudge the paint.\nand finally:\nMop: it's a paintbrush \"mop\" for smooth the paint.\n-------------------------------------------------------------------------------\nBrushkit (.myb): \"Tanda-MyPaint-Brushkit\" by Marcelo \"Tanda\" Cervi\u00f1o. http://lodetanda.blogspot.com -- lodetanda @ gmail.com\nCreated in 2009.\nGitHub:  https://github.com/eLeDeTe-LoDeTanda/Tanda-MyPaint-Brushkit\nLICENSE: CC0 1.0 Universal (CC0 1.0) \nhttps://creativecommons.org/publicdomain/zero/1.0/\n", 
     "parent_brush_name": "Oil/oil-02-paint", 
     "settings": {
         "anti_aliasing": {
@@ -53,7 +53,7 @@
             "inputs": {}
         }, 
         "color_v": {
-            "base_value": 0.058823529411764705, 
+            "base_value": 0.1607843137254902, 
             "inputs": {}
         }, 
         "colorize": {
