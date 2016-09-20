@@ -19,7 +19,7 @@ Versión completa Set#3.
 
 **Para instalarlo :**
 
-1. Brush -> Import Brushes
+1. Pincel -> Importar pinceles 
 2. Seleccione el *.zip 
 3. Listo, un grupo nuevo llamado "Tanda_FullVersion" se habrá creado. 
 
