@@ -2,7 +2,7 @@
     "comment": "MyPaint brush file", 
     "description": "", 
     "group": "", 
-    "notes": "", 
+    "notes": "Brushkit (.myb): \"Tanda-MyPaint-Brushkit\" by Marcelo \"Tanda\" Cervi\u00f1o. http://lodetanda.blogspot.com -- lodetanda @ gmail.com\nCreated in 2009.\nGitHub:  https://github.com/eLeDeTe-LoDeTanda/Tanda-MyPaint-Brushkit\nLICENSE: CC0 1.0 Universal (CC0 1.0) \nhttps://creativecommons.org/publicdomain/zero/1.0/\n", 
     "parent_brush_name": "Splatter/splatter-03", 
     "settings": {
         "anti_aliasing": {
@@ -38,7 +38,7 @@
             "inputs": {}
         }, 
         "color_v": {
-            "base_value": 0.058823529411764705, 
+            "base_value": 0.1607843137254902, 
             "inputs": {}
         }, 
         "colorize": {
