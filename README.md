@@ -21,6 +21,8 @@ MyPaint v1.0.0 o anterior, solo compatible con la versión [1.0](https://github.
 
 **MyPaint v1.0.0 or before, only compatible with version [1.0](https://github.com/eLeDeTe-LoDeTanda/Tanda-MyPaint-Brushkit/blob/master/Tanda-MyPaint-Brushkit-V1.0.zip)**
 
+=
+
 **Para instalarlo :**
 
 1. Descargue Tanda-MyPaint-Brushkit-V***.zip
