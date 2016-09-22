@@ -5,7 +5,7 @@
 
 **[MYPAINT](http://mypaint.org) -Brushkit-**
 
-![](https://dl.dropboxusercontent.com/u/6425188/eLeDeTe/Descargas/Tanda-MyPaint-Brushkit-V1.0.jpg)
+![](https://github.com/eLeDeTe-LoDeTanda/Tanda-MyPaint-Brushkit/blob/master/Tanda-MyPaint-Brushkit.jpg)
 
 Versión completa Set#3.
 
@@ -16,6 +16,10 @@ Versión completa Set#3.
 
 **[Download Tanda-MyPaint-Brushkit-V1.2](http://lodetanda.blogspot.com/p/brushkitmypaint.html)**
 =
+
+MyPaint v1.0.0 o anterior, solo compatible con la versión [1.0](https://github.com/eLeDeTe-LoDeTanda/Tanda-MyPaint-Brushkit/blob/master/Tanda-MyPaint-Brushkit-V1.0.zip)
+
+**MyPaint v1.0.0 or before, only compatible with version [1.0](https://github.com/eLeDeTe-LoDeTanda/Tanda-MyPaint-Brushkit/blob/master/Tanda-MyPaint-Brushkit-V1.0.zip)**
 
 **Para instalarlo :**
 
