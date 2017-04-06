@@ -1,4 +1,4 @@
-![](https://dl.dropboxusercontent.com/u/6425188/eLeDeTe/Mypaint.png)Tanda-MyPaint-Brushkit
+![](https://drive.google.com/uc?export=view&id=0ByCcPfRkDJQ8OUVhZE9wYWZOeG8)Tanda-MyPaint-Brushkit
 =
 
 [MYPAINT](http://mypaint.org) -Set de pinceles-
