@@ -45,7 +45,7 @@ Retrato hecho con Tanda-MyPaint-Brushkit.
 
 **Portrait made with Tanda-MyPaint-Brushkit**
 
-![](https://dl.dropboxusercontent.com/u/6425188/eLeDeTe/Retratos/SalvadorDali.jpg)
+![](https://3.bp.blogspot.com/-g0ljZee4k2w/WN1EivPAa_I/AAAAAAAAAUs/mIRS77AvVkI-a4YcUwvtIjf9_GznpboDACEw/s1600/-SalvadorDali.jpg)
 
 [Más Retratos](http://lodetanda.blogspot.com/p/retratos.html)
 
